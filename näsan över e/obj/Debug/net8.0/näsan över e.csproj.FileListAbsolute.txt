@@ -1,0 +1,14 @@
+C:\Users\theodor.freed\Documents\Programmering\näsan över e\näsan över e\bin\Debug\net8.0\näsan över e.exe
+C:\Users\theodor.freed\Documents\Programmering\näsan över e\näsan över e\bin\Debug\net8.0\näsan över e.deps.json
+C:\Users\theodor.freed\Documents\Programmering\näsan över e\näsan över e\bin\Debug\net8.0\näsan över e.runtimeconfig.json
+C:\Users\theodor.freed\Documents\Programmering\näsan över e\näsan över e\bin\Debug\net8.0\näsan över e.dll
+C:\Users\theodor.freed\Documents\Programmering\näsan över e\näsan över e\bin\Debug\net8.0\näsan över e.pdb
+C:\Users\theodor.freed\Documents\Programmering\näsan över e\näsan över e\obj\Debug\net8.0\näsan över e.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theodor.freed\Documents\Programmering\näsan över e\näsan över e\obj\Debug\net8.0\näsan över e.AssemblyInfoInputs.cache
+C:\Users\theodor.freed\Documents\Programmering\näsan över e\näsan över e\obj\Debug\net8.0\näsan över e.AssemblyInfo.cs
+C:\Users\theodor.freed\Documents\Programmering\näsan över e\näsan över e\obj\Debug\net8.0\näsan över e.csproj.CoreCompileInputs.cache
+C:\Users\theodor.freed\Documents\Programmering\näsan över e\näsan över e\obj\Debug\net8.0\näsan över e.dll
+C:\Users\theodor.freed\Documents\Programmering\näsan över e\näsan över e\obj\Debug\net8.0\refint\näsan över e.dll
+C:\Users\theodor.freed\Documents\Programmering\näsan över e\näsan över e\obj\Debug\net8.0\näsan över e.pdb
+C:\Users\theodor.freed\Documents\Programmering\näsan över e\näsan över e\obj\Debug\net8.0\näsan över e.genruntimeconfig.cache
+C:\Users\theodor.freed\Documents\Programmering\näsan över e\näsan över e\obj\Debug\net8.0\ref\näsan över e.dll
