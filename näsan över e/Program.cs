@@ -10,14 +10,24 @@ while (check == false || MaxHP_num < 1 || MaxHP_num > 20) {
         check = int.TryParse(MaxHP_string, out MaxHP_num);
     }
     else {
-        Console.WriteLine("Nu skrev du inte ett tal! Försök igen!");
+        Console.WriteLine("Nu skrev du inte ett heltal mellan 1-20! Försök igen!");
         MaxHP_string = Console.ReadLine();
         check = int.TryParse(MaxHP_string, out MaxHP_num);
     }
 }
 
-for (int x = MaxHP_num; x > 0; x--) {
-    Console.WriteLine(x);
+int x = MaxHP_num;
+
+while (x > 0) {
+    Console.Write("[");
+
+    for (int y = x; y > 0; y--) {
+        Console.Write("=");
+    }
+
+    Console.Write($"]\n");
+
+    x -= 1;
 }
 
 
